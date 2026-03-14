@@ -1,4 +1,4 @@
-# Online Bakery Shop 🍰
+# Online Bakery Shop 
 
 A full-stack e-commerce web application for ordering bakery products online.
 
